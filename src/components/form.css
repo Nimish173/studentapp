@@ -1,0 +1,12 @@
+.btn-success {
+
+  width: 200px;
+}
+
+.btn-secondary {
+  text-align: center;
+  width: 200px;
+  height: 40px;
+  background-color: #007bff;
+  color: white;
+}
